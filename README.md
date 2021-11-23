@@ -15,5 +15,9 @@ $ pip install -r requirements.txt
 ### 2. Run command
 
 ```
-$ pip main.py
+$ pip main.py 'username' 'reponame'
+```
+* Example code
+```
+$ pip main.py 'shyamady' 'test'
 ```
