@@ -1,4 +1,4 @@
-# Github Forker Analyzer
+# Github Forker Builder
 
 Build user info list who fork the particular repository.
 
