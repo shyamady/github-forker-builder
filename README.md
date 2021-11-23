@@ -15,9 +15,9 @@ $ pip install -r requirements.txt
 ### 2. Run command
 
 ```
-$ pip main.py 'username' 'reponame'
+$ pip main.py 'username' 'reponame' 'token'
 ```
 * Example code
 ```
-$ pip main.py 'shyamady' 'test'
+$ pip main.py 'shyamady' 'test' 'XXXXXXXXXXXXXXXXXXX'
 ```
